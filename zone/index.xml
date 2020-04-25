@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zones on What The H@ck</title>
+    <link>http://example.org/zone/</link>
+    <description>Recent content in Zones on What The H@ck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/zone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Started this blog</title>
+      <link>http://example.org/zone/1/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/zone/1/</guid>
+      <description>Ready to go! Happy hacking to you, Be happy and healthy!</description>
+    </item>
+    
+  </channel>
+</rss>
